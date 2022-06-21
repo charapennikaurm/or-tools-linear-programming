@@ -11,7 +11,13 @@ A = \begin{bmatrix}
         6 & -3 & -2 & 1 & 1 & 1 \\  
      \end{bmatrix}
 $$
-  
+
+$$
+\begin{bmatrix}
+1 & 2 & 3\\
+a & b & c
+\end{bmatrix}
+$$
 
 $$ b = \begin{bmatrix}
         7 & 16 & 6 \\
