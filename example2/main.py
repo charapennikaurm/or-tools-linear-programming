@@ -44,7 +44,7 @@ objective_expr = []
 for i in range(Ns):
     for j in range(Nm):
         objective_expr.append(x[i][j] * p[i][j])
-solver.Maximize(solver.Sum(objective_expr))
+solver.Minimize(solver.Sum(objective_expr))
 
 # решение задачи
 status = solver.Solve()
