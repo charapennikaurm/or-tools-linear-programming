@@ -4,18 +4,12 @@ $$ c'x \rightarrow max $$
 $$ x \geq 0 $$
 $$ Ax \leq b $$
 где  
-$$ 
-\begin{bmatrix}
-2 & 1 & -1 & -3 & 4 & 7\\
-0 & 1 & 1 & 1 & 2 & 4\\
-6 & -3 & -2 & 1 & 1 & 1
-\end{bmatrix}
-$$
 
 $$
 A = \begin{bmatrix}
- & 2 & 3\\
-a & b & c
+2 & 1 & -1 & -3 & 4 & 7\\
+0 & 1 & 1 & 1 & 2 & 4\\
+6 & -3 & -2 & 1 & 1 & 1
 \end{bmatrix}
 $$
 
