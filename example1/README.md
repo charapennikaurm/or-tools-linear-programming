@@ -12,6 +12,13 @@ $$
 \end{bmatrix}
 $$
 
+$$
+A = \begin{bmatrix}
+1 & 2 & 3\\
+a & b & c
+\end{bmatrix}
+$$
+
 $$ b = \begin{bmatrix}
         7 & 16 & 6 \\
        \end{bmatrix}' $$
